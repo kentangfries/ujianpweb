@@ -1,6 +1,3 @@
-
-buat database
-(
 CREATE DATABASE gudang;
 
 USE gudang;
